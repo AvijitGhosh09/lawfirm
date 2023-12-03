@@ -1,0 +1,32 @@
+.hs-container{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   background-color: #111111;
+   padding-top: 20px;
+   padding-bottom: 110px;
+
+}
+
+.about{
+   color:white;
+   padding-left: 48px;
+   font-size: 59px;
+   font-family: 'Inter', sans-serif;
+   padding-top: 30px;
+}
+
+.hs-img-frame{
+   width: 410px;
+height: 490px;
+padding-right: 30px;
+}
+.text{
+   width: 560px;
+   height: 99px;
+   padding-top: 5px;
+   padding-left:47px ;
+   opacity: 30%;
+   color: #FFFFFF
+   
+}
